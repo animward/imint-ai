@@ -1,0 +1,24 @@
+/* Site override: imint.ai */
+:root {
+--color-primary: #60a5fa;
+--color-primary-dim: #3b82f6;
+--color-primary-bright: #93c5fd;
+--color-bg: #0a0e17;
+--color-surface: #111827;
+--color-surface-elevated: #1f2937;
+--color-text: #e2e8f0;
+--color-text-muted: #94a3b8;
+--color-border: rgba(96, 165, 250, 0.15);
+--color-border-strong: rgba(96, 165, 250, 0.3);
+--color-glow: rgba(96, 165, 250, 0.4);
+--font-heading: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+--font-body: 'Proxima Nova', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+		--hero-title-color: #c084fc;
+		--hero-subtitle-color: rgba(226, 232, 240, 0.75);
+}
+
+.header-brand h1,
+.header-brand .brand-title { font-family: 'JetBrains Mono', monospace; letter-spacing: 0.15em; }
+.service-card { font-family: 'JetBrains Mono', monospace; }
+.service-card h3 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.1em; }
+
